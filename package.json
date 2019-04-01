@@ -1,0 +1,34 @@
+{
+  "name": "nitrox-calc",
+  "version": "1.0.0",
+  "description": "Enriched Air Nitrox calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "scuba",
+    "diving",
+    "nitrox",
+    "ean",
+    "ean",
+    "mod",
+    "bestmix",
+    "ppO2",
+    "FO2",
+    "javascript"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hwalaz/nitrox-calc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hwalaz/nitrox-calc/issues"
+  },
+  "homepage": "https://github.com/hwalaz/nitrox-calc#readme",
+  "author": "Leandro <leandro@le-lab.de",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^24.5.0"
+  }
+}
