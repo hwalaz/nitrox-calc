@@ -2,7 +2,7 @@
 
 Enriched Air Nitrox calculator module
 
-[![Latest Version on NPM](https://img.shields.io/npm/v/:nitrox-calc.svg?style=flat-square&logo=npm)](https://npmjs.com/package/:nitrox-calc) ![Berlin](https://img.shields.io/badge/Built%20in-Berlin-blue.svg?logo=javascript) ![Repo_size](https://img.shields.io/github/repo-size/hwalaz/nitrox-cal.svg?color=green&style=flat-square) [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
+[![Latest Version on NPM](https://img.shields.io/npm/v/:nitrox-calc.svg?style=flat-square&logo=npm)](https://npmjs.com/package/:nitrox-calc) ![Berlin](https://img.shields.io/badge/Built%20in-Berlin-blue.svg?logo=javascript) ![Repo_size](https://img.shields.io/github/repo-size/hwalaz/nitrox-calc.svg?color=green&style=flat-square) [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 
 ## Feature
 
