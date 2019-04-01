@@ -1,6 +1,6 @@
 {
   "name": "nitrox-calc",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Enriched Air Nitrox calculator",
   "main": "index.js",
   "scripts": {
