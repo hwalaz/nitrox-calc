@@ -14,7 +14,7 @@ const Nitrox = {
   // Equivalent air depth (EAD) = (Depth + 10) * Fraction of Nitrogen (FN2) ÷ 0.79 − 10
   ead: (depth, fn2) => Number((((depth + 10) * fn2) / 0.79 - 10).toFixed(1)),
   // Actual partial pressure Oxygen = Atmospheres absolute of pressure (ATA)  * Fraction of Oxygen (FO2)
-  appO2: (ata, fo2) => ata * fo2
+  appO2: (ata, fo2) => Number((ata * fo2).toFixed(2))
 };
 
 module.exports = Nitrox;
